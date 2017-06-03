@@ -1,0 +1,8 @@
+[Server]
+localhost
+[User]
+igor
+[Password]
+1319
+[database]
+bd_alimentos
